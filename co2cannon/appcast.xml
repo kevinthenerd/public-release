@@ -10,14 +10,5 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/CO2-Cannon-1.2.1.dmg" length="3373365" type="application/octet-stream" sparkle:edSignature="0lhlp4WhcPYggZzhTZGeKShUXOQG053qzKnV1ieMCgYs8ef0gI2kBwaVAbNeEu8b+L3ESn9LpH2NH5XUR4bbAA=="/>
         </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Fri, 12 Jun 2026 15:15:23 +0200</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/CO2-Cannon-1.2.dmg" length="3199945" type="application/octet-stream" sparkle:edSignature="xv2389SoO3hBl1lbwWZCiXCWLOzocP/KuIRAt2/RPddXZXfkpdbtivJlElYXSgYe9A2GJuAVx70+r7dITVvCDw=="/>
-        </item>
     </channel>
 </rss>
