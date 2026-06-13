@@ -4,11 +4,11 @@
         <title>Energize</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sat, 13 Jun 2026 12:18:49 +0200</pubDate>
+            <pubDate>Sat, 13 Jun 2026 12:42:51 +0200</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Energize-1.1.dmg" length="2001694" type="application/octet-stream" sparkle:edSignature="QCtUcFrYWHQ5RTUf9VTe659aBO8ZnZGABAGb3HU78LblID153zlr5xiYZvpw9JoIpJr5VAgHhm9ICNRb4OHYCw=="/>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Energize-1.1.dmg" length="2600608" type="application/octet-stream" sparkle:edSignature="3uPs2UI/AGWiai/2hd6T6TqO2dc42tI37NUk70PjiXHu2e2zZ7O2zWLbN56uUgNuXOChS2qYmVs6JaSjgEWcDg=="/>
         </item>
     </channel>
 </rss>
