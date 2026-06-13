@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Energize</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 13 Jun 2026 12:18:49 +0200</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Energize-1.1.dmg" length="2001694" type="application/octet-stream" sparkle:edSignature="QCtUcFrYWHQ5RTUf9VTe659aBO8ZnZGABAGb3HU78LblID153zlr5xiYZvpw9JoIpJr5VAgHhm9ICNRb4OHYCw=="/>
+        </item>
+    </channel>
+</rss>
