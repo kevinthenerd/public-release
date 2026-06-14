@@ -3,12 +3,12 @@
     <channel>
         <title>Tideline</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Sun, 14 Jun 2026 18:31:30 +0200</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Sun, 14 Jun 2026 21:00:40 +0200</pubDate>
+            <sparkle:version>1.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Tideline-1.1.dmg" length="3666142" type="application/octet-stream" sparkle:edSignature="yufER8HkUkCSffAvb4/9GuE2ce8KMzU5F2C3vUZ5xagb9qLsRlka0aS3VvT3kE7OOyD+ntJ7V0di5Eo2BfrNAw=="/>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Tideline-1.1.1.dmg" length="3679595" type="application/octet-stream" sparkle:edSignature="j3SUvy3orZyBMOcTPCHWpqrGp61aBUrNFAEhlChk5LYzexxz7Mm2rcruxoDwlBBb9x2kyWO4kc3tXH9f3U34Dg=="/>
         </item>
     </channel>
 </rss>
