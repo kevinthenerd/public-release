@@ -3,12 +3,12 @@
     <channel>
         <title>Energize</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Sat, 13 Jun 2026 12:42:51 +0200</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Sun, 05 Jul 2026 12:48:04 +0200</pubDate>
+            <sparkle:version>1.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Energize-1.1.dmg" length="2600608" type="application/octet-stream" sparkle:edSignature="3uPs2UI/AGWiai/2hd6T6TqO2dc42tI37NUk70PjiXHu2e2zZ7O2zWLbN56uUgNuXOChS2qYmVs6JaSjgEWcDg=="/>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Energize-1.1.1.dmg" length="2613820" type="application/octet-stream" sparkle:edSignature="d4c2hcMJzJXXaXMGhCRiMcZ9B/bYtCR6xE46d97WNPThqpuxblzpfJD4Q/qTxzaLYhFLTzG/en0My9ubeYm8DQ=="/>
         </item>
     </channel>
 </rss>
