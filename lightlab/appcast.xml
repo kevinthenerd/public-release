@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Light Lab</title>
+        <!-- No release published yet, so this feed carries no items on purpose.
+             An installed copy that checks for updates then gets a valid feed and
+             reports it is up to date, instead of the error a missing file gives.
+             release.sh replaces this file with the real one-item appcast on the
+             first publish. -->
+    </channel>
+</rss>
