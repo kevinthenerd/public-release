@@ -2,10 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Light Lab</title>
-        <!-- No release published yet, so this feed carries no items on purpose.
-             An installed copy that checks for updates then gets a valid feed and
-             reports it is up to date, instead of the error a missing file gives.
-             release.sh replaces this file with the real one-item appcast on the
-             first publish. -->
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 27 Jul 2026 20:34:05 +0200</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/LightLab-1.0.2.dmg" length="3429678" type="application/octet-stream" sparkle:edSignature="mlSK/H7PYIhvpYPVnJbYMimgz64EAVqJGl2OLalNIHFjrqxySiGGjjpOpI0HnH805StdrioKzJJB6X8bupo3Aw=="/>
+        </item>
     </channel>
 </rss>
