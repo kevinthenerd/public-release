@@ -3,12 +3,12 @@
     <channel>
         <title>Light Lab</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Mon, 27 Jul 2026 20:34:05 +0200</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Sun, 02 Aug 2026 20:54:45 +0200</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/LightLab-1.0.2.dmg" length="3429678" type="application/octet-stream" sparkle:edSignature="mlSK/H7PYIhvpYPVnJbYMimgz64EAVqJGl2OLalNIHFjrqxySiGGjjpOpI0HnH805StdrioKzJJB6X8bupo3Aw=="/>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/LightLab-1.0.3.dmg" length="3439219" type="application/octet-stream" sparkle:edSignature="h8H+0ieNZB0PZ8PsYq5X9iHH2XImSilRkspxPvS1cdUbjWypKCmRdGPwQaBftV9CBVA/kQ2URdQUDFrKzDOVAg=="/>
         </item>
     </channel>
 </rss>
