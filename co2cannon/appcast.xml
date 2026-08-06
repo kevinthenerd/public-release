@@ -3,12 +3,12 @@
     <channel>
         <title>CO2 Cannon</title>
         <item>
-            <title>1.2.3</title>
-            <pubDate>Sun, 05 Jul 2026 12:59:38 +0200</pubDate>
-            <sparkle:version>1.2.3</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <title>1.2.4</title>
+            <pubDate>Fri, 07 Aug 2026 01:09:57 +0200</pubDate>
+            <sparkle:version>1.2.4</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/CO2-Cannon-1.2.3.dmg" length="4004792" type="application/octet-stream" sparkle:edSignature="8yy8et2i9mtnUM3wmSgkUQQ38wZfiJ+xyrjwtYpSj+iEc2MjgG9OvGnuVFt2h+BW0kzfByJLS5axL9E0h5E1Ag=="/>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/CO2-Cannon-1.2.4.dmg" length="3994718" type="application/octet-stream" sparkle:edSignature="zCYk+Q5+fOir22OxADtr93pDHfFKt9++0XWVLEnl4yE1MJvYc3aMc5EEai13eIH6wdBUmKnj5Vq2k52lP6QHAw=="/>
         </item>
     </channel>
 </rss>
