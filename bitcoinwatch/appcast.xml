@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bitcoin Watch</title>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 27 Aug 2026 11:08:30 +0200</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/BitcoinWatch-1.0.3.dmg" length="3227836" type="application/octet-stream" sparkle:edSignature="5IaqN6IQKyvHVxE+5Lf60fHjPshSFAcdguuKgbc9iQRAVRiphqrRKUI62kpwQbuuNF4pX04Y+wWhvLtiXQtbDQ=="/>
+        </item>
+    </channel>
+</rss>
