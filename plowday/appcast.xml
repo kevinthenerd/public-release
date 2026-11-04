@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Plowday</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 04 Nov 2026 10:36:29 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Plowday-1.0.0.dmg" length="6674255" type="application/octet-stream" sparkle:edSignature="6fQkLbRJ3dpOFxjnFGMA2aBJoka3QE1XWLqF5w45rMDhAdbVAYGKn4hAHpfXMqezuRQqmGg6Akx6uV9hvyQgDg=="/>
+        </item>
+    </channel>
+</rss>
