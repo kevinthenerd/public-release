@@ -3,12 +3,12 @@
     <channel>
         <title>Plowday</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 04 Nov 2026 10:36:29 +0100</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Wed, 04 Nov 2026 17:05:09 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Plowday-1.0.0.dmg" length="6674255" type="application/octet-stream" sparkle:edSignature="6fQkLbRJ3dpOFxjnFGMA2aBJoka3QE1XWLqF5w45rMDhAdbVAYGKn4hAHpfXMqezuRQqmGg6Akx6uV9hvyQgDg=="/>
+            <enclosure url="https://github.com/kevinthenerd/public-release/releases/download/downloads/Plowday-1.0.1.dmg" length="6693231" type="application/octet-stream" sparkle:edSignature="BG8UgRckHWjdVRifR08XLW2laDunlRlkBlZWvAg0gMaXv4VB3tFzhPZDj6omohVI514dh250GDV4z2xz3BbNCA=="/>
         </item>
     </channel>
 </rss>
